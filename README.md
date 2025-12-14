@@ -111,7 +111,7 @@
 
   <header>
     <div class="hero">
-      <img src="capa-fome.jpg" alt="Akin com maquiagem de caveira – capa de FOME" />
+      <img src="capa-fome.JPG" alt="Akin com maquiagem de caveira – capa de FOME" />
       <div class="hero-text">
         <h1>FOME</h1>
         <p>
